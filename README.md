@@ -1,5 +1,7 @@
 # The SamoSvet project
 
+![header](assembly-traffic-lights-header.jpg)
+
 The SamoSvet is an educational project for kids.
 It has designed with finance supporting an initiative [Meet-and-Code](https://meet-and-code.org/).
 I organized this project as master class for demonstrate children possibility of the programming and captivate them to wonderful world of electronics and Arduino.
